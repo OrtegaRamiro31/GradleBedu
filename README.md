@@ -26,4 +26,3 @@ Uso de Gradle para convertir un archivo Markdown a un archivo HTML utilizando **
 5. Para convertir el archivo ``.md`` a un archivo ``.html`` ejecutamos en la terminal la siguiente línea:\
 ``gradle task markdownToHtml``
 6. Con esto se nos generará el archivo ``.html`` dentro de la carpeta ``build/gen-html`` del directorio raíz.
-7. 
