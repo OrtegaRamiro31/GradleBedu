@@ -6,6 +6,7 @@ Uso de Gradle para convertir un archivo Markdown a un archivo HTML utilizando **
 ## Requerimientos
 - Plugin [Gradle Markdown](https://github.com/kordamp/markdown-gradle-plugin)
 
+## Instrucciones
 1. Primero debe crearse el archivo *build.gradle* en la raíz del proyecto.
 2. Dentro de gradle colocamos lo siguiente: 
 ``plugins{
